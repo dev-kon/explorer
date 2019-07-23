@@ -26,7 +26,7 @@
         "poweredbyEtc": true,
         "tokenList": "tokens.json",
         "useRichList": true,
-        "useFiat": true,
+        "useFiat": false,
         "miners": {
             "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": "FUNCOIN"
          }
