@@ -20,7 +20,7 @@
         "twitter": "https://twitter.com/funcoinio",
         "github": "https://github.com/funcoinio",
         "logo": "/img/full_color_long.png",
-        "copyright": "2019 &copy; FUNCOIN.",
+        "copyright": "2019 &copy; FUNCOIN.IO",
         "poweredbyCustom": false,
         "poweredbyEtcImage": "/img/powered-by-etcexplorer-w.png",
         "poweredbyEtc": true,
@@ -28,8 +28,7 @@
         "useRichList": true,
         "useFiat": true,
         "miners": {
-            "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": "FUNCOIN",
-            "0xf35074bbd0a9aee46f4ea137971feec024ab704e": "solopool.org"
+            "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": "FUNCOIN"
          }
     }
 }
